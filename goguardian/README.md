@@ -7,4 +7,5 @@ You are able to access many of the files that GoGuardian uses, and here is a lis
  * https://extension.goguardian/extension.html
  * https://localstorage.goguardian/xdLocalStoragePostMessageApi.js
  * https://localstorage.goguardian
+
 All the code in these will be inside files in the "sourcecode" folder for easy access.
