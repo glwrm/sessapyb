@@ -10,7 +10,7 @@ You are able to access many of the files that GoGuardian uses, and here is a lis
  * https://localstorage.goguardian/xdLocalStorage.js
 
 There are also two files, found in the session storage of any website:
-- gg_policy.json
+- gg_policy.json 
 - gg_entities.json
 
-All the code in these will be inside files in the "sourcecode" folder for easy access.
+All the code in these will be inside files in the "sourcecode" folder for easy access. gg_policy.json contains the full list of flagged words, and many must be censored (For obvious reasons.) If you would like a full list, email me at glowwqrm@gmail.com or locate it using Eruda on a device with GoGuardian installed.
