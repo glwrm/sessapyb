@@ -1,0 +1,1 @@
+javascript:var num=prompt("How many times do you want this page to show up in your history?");done=false;x=window.location.href;for (var i=1; i<=num; i++){history.pushState(0, 0, i==num?x:i.toString());if(i==num){done=true}}if(done===true){alert("Flooding successful!\n "+window.location.href+" \nis now in your history "+num+(num==1?" time.":" Times. "))}
